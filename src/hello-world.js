@@ -1,2 +1,2 @@
 console.log('hello world')
-console.log('i drank beer lsat night')
+console.log('We drank beer last night')
