@@ -1,0 +1,23 @@
+{
+  "name": "programming-for-noobs",
+  "version": "1.0.0",
+  "description": "Basics of programming",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roxwelldale/programmingForNoobs.git"
+  },
+  "author": "rox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roxwelldale/programmingForNoobs/issues"
+  },
+  "homepage": "https://github.com/roxwelldale/programmingForNoobs#readme"
+}
